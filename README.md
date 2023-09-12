@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<a href="https://www.notion.so/AI-CV-a3bdd4c05e6848358e91aa451f30dcad?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Donggun_Seo_CV-000000?style=flat-square&logo=로고&logoColor=000000"/></a>
+<a href="https://www.notion.so/AI-CV-a3bdd4c05e6848358e91aa451f30dcad?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Donggun_Seo_CV-000000?style=flat-square&logo=Notion&logoColor=000000"/></a>
