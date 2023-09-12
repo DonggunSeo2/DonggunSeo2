@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<a href="https://www.notion.so/AI-CV-a3bdd4c05e6848358e91aa451f30dcad?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Donggun_Seo_CV-000000?style=flat-square&logo=https://img.shields.io/badge/Notion&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/Notion-DonggunSeo_CV-000000?style=flat-square&logo=Notion&logoColor=white"/>
