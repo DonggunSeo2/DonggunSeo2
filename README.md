@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/Notion-DonggunSeo_CV-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-DonggunSeo_LinkedIn-#0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
