@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.notion.so/AI-CV-a3bdd4c05e6848358e91aa451f30dcad?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-DonggunSeo_CV-000000?style=flat-square&logo=Notion&logoColor=white"/>
-
-<a href="https://www.notion.so/AI-CV-a3bdd4c05e6848358e91aa451f30dcad?pvs=4" target="_blank"><img src="https://img.shields.io/badge/DonggunSeo_CV-000000?style=flat&logo=appveyor&logoColor=FFFFFF"/></a>
